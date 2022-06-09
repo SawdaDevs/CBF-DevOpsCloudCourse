@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.039514fb.css",
+    "main.js": "/static/js/main.a24e7e96.js",
+    "static/js/787.0c034dbd.chunk.js": "/static/js/787.0c034dbd.chunk.js",
+    "static/media/cbf_logo.png": "/static/media/cbf_logo.cda688938301d217322b.png",
+    "index.html": "/index.html",
+    "main.039514fb.css.map": "/static/css/main.039514fb.css.map",
+    "main.a24e7e96.js.map": "/static/js/main.a24e7e96.js.map",
+    "787.0c034dbd.chunk.js.map": "/static/js/787.0c034dbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039514fb.css",
+    "static/js/main.a24e7e96.js"
+  ]
+}
